@@ -8,7 +8,7 @@ const App = () => {
 
   return (
     <View style={styles.container}>
-      <City />
+      <CurrentWeather />
     </View>
   )
 }
